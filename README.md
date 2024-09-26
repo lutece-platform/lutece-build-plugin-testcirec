@@ -11,3 +11,4 @@ test8
 tets9
 test10
 tets11
+test temurin-17-jdk
