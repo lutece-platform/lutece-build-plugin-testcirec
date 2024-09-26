@@ -13,3 +13,4 @@ test10
 tets11
 test temurin-17-jdk
 test renvoi vers rec
+test2 renvoi vers rec
