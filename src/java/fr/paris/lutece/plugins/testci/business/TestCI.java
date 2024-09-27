@@ -34,7 +34,6 @@
 package fr.paris.lutece.plugins.testci.business;
 
 import javax.validation.constraints.*;
-import org.hibernate.validator.constraints.*;
 import java.io.Serializable;
 
 /**
