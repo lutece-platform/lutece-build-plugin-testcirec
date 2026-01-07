@@ -12,3 +12,4 @@ test build parameters
 test ftp
 test erreur plugin sonar
 test version plugin sonar
+test2 version plugin sonar
