@@ -10,3 +10,4 @@ txt maven_site
 test jacoco sonarqube
 test build parameters
 test ftp
+test erreur plugin sonar
