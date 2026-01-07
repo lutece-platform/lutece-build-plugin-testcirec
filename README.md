@@ -11,3 +11,4 @@ test jacoco sonarqube
 test build parameters
 test ftp
 test erreur plugin sonar
+test version plugin sonar
