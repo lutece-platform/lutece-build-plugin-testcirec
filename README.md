@@ -14,4 +14,4 @@ test version plugin sonar
 test2 version plugin sonar
 test2 version plugin sonar dasn conf maven
 test3 version plugin sonar dasn conf maven
-test maven site
+test2 maven site
