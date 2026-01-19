@@ -16,3 +16,4 @@ test2 version plugin sonar dasn conf maven
 test3 version plugin sonar dasn conf maven
 test2 maven site
 test avec ftp 
+test avec ftp 
