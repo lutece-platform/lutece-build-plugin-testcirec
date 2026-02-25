@@ -12,3 +12,4 @@ test2 maven site
 test avec ftp 
 test avec ftp 
 Test avec maven_settings défini pour le deploy dasn le jenkinsfile
+Test2 avec maven_settings défini pour le deploy dasn le jenkinsfile
