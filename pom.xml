@@ -12,6 +12,10 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>Lutece testci plugin</name>
 
+	<properties>
+        <targetJdk>21</targetJdk>
+	</properties>
+
     <repositories>
         <repository>
             <id>lutece</id>
