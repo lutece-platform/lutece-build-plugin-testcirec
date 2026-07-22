@@ -6,7 +6,6 @@ test ftp
 test erreur plugin sonar
 test version plugin sonar
 test2 version plugin sonar
-test2 version plugin sonar dasn conf maven
 test3 version plugin sonar dasn conf maven
 test2 maven site
 test avec ftp 
