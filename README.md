@@ -14,3 +14,4 @@ Test2 avec maven_settings défini pour le deploy dasn le jenkinsfile
 Test avec jdk21 pour Sonar
 Test reposilite
 Test reposilite2
+test without allure
